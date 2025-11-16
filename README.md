@@ -69,7 +69,7 @@ echo “hello world” > hello.txt
 type hello.txt
 
 ```
-
+![alt text](4o.png)
 
 Copy the file hello.txt into the file hello1.txt
 
